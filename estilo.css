@@ -1,0 +1,37 @@
+.img1{
+    border: solid 5px green;
+    width: 600px;
+    margin-left: 400px;
+}
+
+#papel{
+    background-color: green;
+    text-align: center;
+    padding: 8px;
+    border: black solid 5px;
+}
+
+.primeiro{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: greenyellow;
+    padding: 5px;
+}
+
+.segundo{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: darkgreen;
+    padding: 5px;
+}
+
+.terceiro{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: chartreuse;
+    padding: 5px;
+}
+
+.video{
+    border: solid 5px green;
+}
